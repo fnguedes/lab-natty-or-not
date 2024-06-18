@@ -19,24 +19,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<p align="center">
+<img 
+    src="./assets/Banner.png"
+    flex=1  
+/>
+</p>
 
-## 📒 Descrição
-Breve descrição do seu projeto
+# 📜Podcast da história do React Native
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Escute um audio e história criados por IA e revisada por humanos sobre como foi feito o react native.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 💻 Tecnologias utilizadas no projeto
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [ChatGPT](https://chat.openai.com/)
+- [Copilot](https://www.bing.com/chat)
+- [Eleven Labs](https://elevenlabs.io)
+- [Figma](https://www.figma.com)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 🧠 Prompts
+
+### Copilot
+|   Ação   | Prompts  |
+| :------: | ---------------------------------------- |
+| Banner Android | Android de aparência humana com roupa de bardo |
+
+
+### ChatGPT
+
+|   Ação   | prompts                                  |
+| :------: | ---------------------------------------- |
+| História | me conte a história do react native como se fosse um conto de fadas e sem usar palavras em inglês se possível|
 
 ### Exemplos e Insigths
 
